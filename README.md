@@ -2,7 +2,10 @@
 
 ## In this assignment we are using PostgreSQL to create the airport data base
 
+
 ### To start the project:
+
+
 
 1. Create a new databse using pgAdmin4
 
